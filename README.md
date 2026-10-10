@@ -1,3 +1,3 @@
-# dsci100_v_6667
+# toy_ds_project
 
 Authors: Vanessa Liu
